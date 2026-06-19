@@ -57,7 +57,7 @@ In normal operation, this table is populated by the Kafka Connect Cassandra sink
  
 ## Kafka Connect — Cassandra sink connector
  
-Defined in a **[separate repository](https://github.com/dts-org/kafka-streaming-platform/blob/main/instConn.http)**.
+Defined in a **[separate repository](https://github.com/dts-org/kafka-streaming-platform/blob/main/instConn.http)**. Its name is cassandra-sink-reviews-by-rating.
  
 Relevant parameters, in relation to this Cassandra setup:
  
